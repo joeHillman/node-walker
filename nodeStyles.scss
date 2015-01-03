@@ -1,0 +1,33 @@
+.content {
+  text-align: center;
+  font-size: 100px;
+}
+
+.w-nav {
+  position:fixed;
+  top: 25px;
+  right: 300px;
+  font-size: 30px;
+
+  .nav {
+    list-style: none;
+  }
+}
+
+.explain {
+  font: {
+    family: arial, sans-serif;
+  }
+    width: 300px;
+    margin: 0 auto;
+}
+
+  .previous,
+  .next,
+  .three-up .active {
+    visibility: visible !important;
+  }
+
+    .js-enabled .hide {
+    visibility: hidden;
+  }
